@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pcroom-home.suaveforge.com/sitemap.xml
